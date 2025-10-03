@@ -1,7 +1,3 @@
-Got it 👍
-Here’s the **entire README.md** as a single clean code block, fully formatted:
-
-````markdown
 # Mini-LLM: From-Scratch Transformer with DeepSpeed
 
 A minimal, production-ready implementation of a custom Transformer LLM trained at scale with **PyTorch + DeepSpeed**.  
@@ -316,3 +312,4 @@ For production training, use multi-node setup with **ZeRO Stage 3 + CPU offload*
 
 Do you also want me to **add GitHub badges (Python, PyTorch, DeepSpeed, License)** at the top of this README for a more professional OSS-style presentation?
 ```
+
