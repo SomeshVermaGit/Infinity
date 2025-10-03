@@ -263,5 +263,6 @@ MIT
 ---
 
 **Ready to scale?** Start with the quick start guide above, then adjust batch sizes and model dimensions for your hardware. For production training, use multi-node setup with ZeRO stage 3 + CPU offload.
-#   I n f i n i t y  
+#   I n f i n i t y 
+ 
  
